@@ -6,7 +6,7 @@ You need Anaconda and VS Code or Sublime Text installed on your machine.
 
 ## Description:
 
-O desenvolvimento do modelo de classificação de notícias financeiras foi desenvolvido com o objetivo de retornar qual classe representa uma determinada notícia. Ao coletar notícias da internet e inseri-las no modelo após o treinamento, o modelo retornará a qual categoria a notícia pertence.
+The development of the financial news classification model was developed with the aim of returning which class represents a given news item. By collecting news from the internet and inputting it into the model after training, the model will return which category the news belongs to.
 
 The data was collected from the [BBC](http://mlg.ucd.ie/datasets/bbc.html), it is real data where the news was labeled in the categories that fit.
 
